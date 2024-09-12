@@ -1,4 +1,4 @@
-## Hi there 👋
+👋
 
 # 👨‍💻 Backend Developer | API Enthusiast | Full-Stack Capable
 
