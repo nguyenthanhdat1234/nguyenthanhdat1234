@@ -1,5 +1,3 @@
-👋
-
 # 👨‍💻 Backend Developer | API Enthusiast | Full-Stack Capable
 
 Hello! I'm Thanh Dat, a dedicated backend developer with a solid grasp of full-stack development. I specialize in building efficient, scalable, and secure server-side solutions, while also having the ability to work on front-end layouts when needed.
