@@ -2,6 +2,8 @@
 
 Hello! I'm Thanh Dat, a dedicated backend developer with a solid grasp of full-stack development. I specialize in building efficient, scalable, and secure server-side solutions, while also having the ability to work on front-end layouts when needed.
 
+![Backend Development](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
 ## 🛠 Technologies & Tools
 
 - **Languages**: 
@@ -40,6 +42,8 @@ Hello! I'm Thanh Dat, a dedicated backend developer with a solid grasp of full-s
   - ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
   - ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 
+![Tech Stack](https://media.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif)
+
 ## 🚀 About Me
 
 I enjoy tackling complex backend challenges, contributing to open-source projects, and bridging the gap between server-side logic and user interfaces. Constantly learning and evolving in the ever-growing tech landscape.
@@ -48,9 +52,8 @@ Let's collaborate and bring ideas to life!
 
 ## 📫 Get in Touch
 
-- **Email**: (mailto:datnguyen.010802@gmail.com)
-- **LinkedIn**: (https://www.linkedin.com/in/dat-nguyen-982782191/)
+- **Email**: [datnguyen.010802@gmail.com](mailto:datnguyen.010802@gmail.com)
+- **LinkedIn**: [Dat Nguyen](https://www.linkedin.com/in/dat-nguyen-982782191/)
 
 ![GitHub followers](https://img.shields.io/github/followers/nguyenthanhdat1234?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/nguyenthanhdat1234?style=social)
-
